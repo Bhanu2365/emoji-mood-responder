@@ -28,9 +28,9 @@ It's perfect for beginners who want to:
 ## 🧪 How to Run
 
 1. Make sure you have Python installed (Python 3.x is recommended).
-2. Copy the code from the `emoji_mood_responder.py` file.
+2. Copy the code from the `project-1.py` file.
 3. Open your terminal or command prompt.
 4. Run the program using:
 
 ```bash
-python project1.py
+python project-1.py
